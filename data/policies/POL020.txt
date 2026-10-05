@@ -1,5 +1,0 @@
-Policy ID: POL020
-Title: Course Registration
-Category: academic
-
-Students must register for required courses during the designated registration period.

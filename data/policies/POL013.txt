@@ -1,5 +1,0 @@
-Policy ID: POL013
-Title: Revaluation Limit
-Category: examination
-
-A revaluation request applies only to eligible courses and must follow the examination office procedure.

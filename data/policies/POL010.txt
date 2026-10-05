@@ -1,5 +1,0 @@
-Policy ID: POL010
-Title: Assignment Submission
-Category: assessment
-
-Assignments must be submitted before the deadline specified by the course faculty.

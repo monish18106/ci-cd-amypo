@@ -1,5 +1,0 @@
-Policy ID: POL014
-Title: Exam Registration
-Category: examination
-
-Students must complete examination registration within the announced registration period.

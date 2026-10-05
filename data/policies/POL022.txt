@@ -1,5 +1,0 @@
-Policy ID: POL022
-Title: Backlog Examination
-Category: examination
-
-Students with eligible failed courses may register for backlog examinations according to the announced schedule.

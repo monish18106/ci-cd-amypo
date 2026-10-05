@@ -1,5 +1,0 @@
-Policy ID: POL033
-Title: Project Evaluation
-Category: assessment
-
-Project evaluation follows the assessment components and criteria communicated for the applicable programme or course.

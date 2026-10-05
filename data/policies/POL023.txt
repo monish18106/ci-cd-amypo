@@ -1,5 +1,0 @@
-Policy ID: POL023
-Title: Grade Publication
-Category: academic
-
-Course grades are published through the institution's approved result publication process.

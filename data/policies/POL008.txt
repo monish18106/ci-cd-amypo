@@ -1,5 +1,0 @@
-Policy ID: POL008
-Title: End Semester Examination
-Category: assessment
-
-The end semester examination contributes 60 marks to the final course evaluation.

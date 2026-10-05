@@ -1,5 +1,0 @@
-Policy ID: POL021
-Title: Credit Requirement
-Category: academic
-
-Students must complete the prescribed credit requirements of their programme for graduation eligibility.

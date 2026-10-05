@@ -1,5 +1,0 @@
-Policy ID: POL006
-Title: Leave Application
-Category: leave
-
-Leave applications should be submitted through the approved institutional process before or immediately after the absence.

@@ -1,5 +1,0 @@
-Policy ID: POL001
-Title: Attendance Requirement
-Category: attendance
-
-Students must maintain a minimum attendance of 75 percent in each course.

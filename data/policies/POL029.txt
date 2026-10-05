@@ -1,5 +1,0 @@
-Policy ID: POL029
-Title: Record Privacy
-Category: administration
-
-Student academic records must be accessed and handled only through authorized institutional processes.

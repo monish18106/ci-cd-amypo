@@ -1,5 +1,0 @@
-Policy ID: POL031
-Title: Library Clearance
-Category: administration
-
-Required library clearance must be completed when applicable to academic or institutional processes.

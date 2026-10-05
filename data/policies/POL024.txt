@@ -1,5 +1,0 @@
-Policy ID: POL024
-Title: Result Correction
-Category: academic
-
-Requests to correct a published academic result must be submitted with supporting evidence through the designated office.

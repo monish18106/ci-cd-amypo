@@ -1,5 +1,0 @@
-Policy ID: POL004
-Title: Attendance Calculation
-Category: attendance
-
-Attendance percentage is calculated from the total eligible instructional hours recorded for the course.

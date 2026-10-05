@@ -1,5 +1,0 @@
-Policy ID: POL002
-Title: Attendance Condonation
-Category: attendance
-
-Students with attendance from 65 percent to 74 percent may apply for attendance condonation, subject to approval.
