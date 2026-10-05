@@ -1,0 +1,5 @@
+Policy ID: POL017
+Title: Academic Misconduct
+Category: discipline
+
+Academic misconduct during an examination or assessment is handled according to institutional disciplinary procedures.

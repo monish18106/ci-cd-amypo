@@ -1,0 +1,5 @@
+Policy ID: POL030
+Title: Data Correction Request
+Category: administration
+
+Students may request correction of inaccurate personal or academic information through the designated process.

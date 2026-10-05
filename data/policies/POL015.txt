@@ -1,0 +1,5 @@
+Policy ID: POL015
+Title: Exam Eligibility
+Category: examination
+
+Examination eligibility depends on fulfillment of applicable academic and attendance requirements.

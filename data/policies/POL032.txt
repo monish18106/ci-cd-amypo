@@ -1,0 +1,5 @@
+Policy ID: POL032
+Title: Laboratory Attendance
+Category: attendance
+
+Laboratory attendance is recorded as part of the applicable course attendance requirements.

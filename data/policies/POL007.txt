@@ -1,0 +1,5 @@
+Policy ID: POL007
+Title: Internal Assessment
+Category: assessment
+
+Internal assessment contributes 40 marks to the final course evaluation.

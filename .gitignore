@@ -1,0 +1,97 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# =========================
+# Python Tools / Testing
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# =========================
+# Project Generated Data
+# =========================
+data/academic_records.sqlite
+data/chunks.json
+data/faiss.index
+data/bm25.pkl
+
+# Generated evaluation results
+data/benchmark.json
+data/full_pipeline_results.json
+data/retrieval_results.json
+
+# =========================
+# Local AI Models
+# =========================
+models/
+
+# Keep model directory structure if needed
+# !models/.gitkeep
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Temporary / Cache Files
+# =========================
+*.tmp
+*.temp
+*.cache
+*.bak
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS Files
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini

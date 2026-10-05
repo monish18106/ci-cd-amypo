@@ -1,0 +1,5 @@
+Policy ID: POL035
+Title: Graduation Eligibility
+Category: academic
+
+Graduation eligibility requires completion of prescribed academic, credit, and institutional requirements.

@@ -1,0 +1,5 @@
+Policy ID: POL034
+Title: Internship Credit
+Category: academic
+
+Internship credit is awarded only when the internship satisfies the applicable academic requirements.

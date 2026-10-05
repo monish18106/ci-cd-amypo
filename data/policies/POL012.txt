@@ -1,0 +1,5 @@
+Policy ID: POL012
+Title: Revaluation Request
+Category: examination
+
+Students may submit revaluation requests within the period announced after publication of examination results.

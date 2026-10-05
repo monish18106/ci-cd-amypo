@@ -1,0 +1,5 @@
+Policy ID: POL019
+Title: Course Withdrawal
+Category: academic
+
+Course withdrawal requests must be made within the period and procedure specified by the institution.

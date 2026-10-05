@@ -1,0 +1,5 @@
+Policy ID: POL026
+Title: Course Coordinator
+Category: academic
+
+The course coordinator is responsible for coordinating course-level academic activities and communication.

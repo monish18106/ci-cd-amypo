@@ -1,0 +1,5 @@
+Policy ID: POL009
+Title: Passing Requirement
+Category: assessment
+
+A student must satisfy the applicable minimum marks requirement in the course to pass.

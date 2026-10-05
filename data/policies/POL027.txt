@@ -1,0 +1,5 @@
+Policy ID: POL027
+Title: Minimum Credits Per Semester
+Category: academic
+
+Students should follow the prescribed semester-wise credit structure of their programme.

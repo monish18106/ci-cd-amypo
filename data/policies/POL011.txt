@@ -1,0 +1,5 @@
+Policy ID: POL011
+Title: Late Assignment
+Category: assessment
+
+Late assignment submissions may be accepted only when permitted by the course faculty or applicable policy.

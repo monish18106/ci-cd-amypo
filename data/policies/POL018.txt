@@ -1,0 +1,5 @@
+Policy ID: POL018
+Title: Plagiarism
+Category: discipline
+
+Submitted academic work must comply with the institution's academic integrity and plagiarism requirements.

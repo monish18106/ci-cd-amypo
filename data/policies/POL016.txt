@@ -1,0 +1,5 @@
+Policy ID: POL016
+Title: Hall Ticket
+Category: examination
+
+Students must obtain the examination hall ticket through the approved institutional process before the examination.

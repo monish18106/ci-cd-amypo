@@ -1,0 +1,5 @@
+Policy ID: POL003
+Title: Attendance Shortage
+Category: attendance
+
+Students with attendance below 65 percent are not eligible for attendance condonation.

@@ -1,0 +1,5 @@
+Policy ID: POL005
+Title: Medical Leave
+Category: leave
+
+Medical leave requests must include valid supporting medical documents and follow the institutional approval process.
